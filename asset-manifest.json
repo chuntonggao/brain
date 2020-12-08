@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.js": "/brain/static/js/main.854f254a.chunk.js",
-    "main.js.map": "/brain/static/js/main.854f254a.chunk.js.map",
+    "main.css": "/brain/static/css/main.8f181888.chunk.css",
+    "main.js": "/brain/static/js/main.310af7a5.chunk.js",
+    "main.js.map": "/brain/static/js/main.310af7a5.chunk.js.map",
     "runtime-main.js": "/brain/static/js/runtime-main.931bf54c.js",
     "runtime-main.js.map": "/brain/static/js/runtime-main.931bf54c.js.map",
     "static/css/2.b00201c5.chunk.css": "/brain/static/css/2.b00201c5.chunk.css",
-    "static/js/2.cd51dfc7.chunk.js": "/brain/static/js/2.cd51dfc7.chunk.js",
-    "static/js/2.cd51dfc7.chunk.js.map": "/brain/static/js/2.cd51dfc7.chunk.js.map",
+    "static/js/2.d5ece6a3.chunk.js": "/brain/static/js/2.d5ece6a3.chunk.js",
+    "static/js/2.d5ece6a3.chunk.js.map": "/brain/static/js/2.d5ece6a3.chunk.js.map",
     "index.html": "/brain/index.html",
     "static/css/2.b00201c5.chunk.css.map": "/brain/static/css/2.b00201c5.chunk.css.map",
-    "static/js/2.cd51dfc7.chunk.js.LICENSE.txt": "/brain/static/js/2.cd51dfc7.chunk.js.LICENSE.txt"
+    "static/css/main.8f181888.chunk.css.map": "/brain/static/css/main.8f181888.chunk.css.map",
+    "static/js/2.d5ece6a3.chunk.js.LICENSE.txt": "/brain/static/js/2.d5ece6a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.931bf54c.js",
     "static/css/2.b00201c5.chunk.css",
-    "static/js/2.cd51dfc7.chunk.js",
-    "static/js/main.854f254a.chunk.js"
+    "static/js/2.d5ece6a3.chunk.js",
+    "static/css/main.8f181888.chunk.css",
+    "static/js/main.310af7a5.chunk.js"
   ]
 }
